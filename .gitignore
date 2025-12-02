@@ -1,0 +1,19 @@
+# Root .gitignore
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+.DS_Store
+.vscode/
+.idea/
+coverage/
+.nyc_output/
+
+# Database
+*.sqlite
+*.db
+
+# OS
+Thumbs.db
